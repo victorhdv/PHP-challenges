@@ -1,4 +1,4 @@
-##:elephant: Desafios-PHP
+## :elephant: Desafios-PHP
 
 Realisando desafios propostos durante os cursos da Alura, na formação em PHP
 
