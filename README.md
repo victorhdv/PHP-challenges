@@ -1,8 +1,8 @@
-#:elephant: Desafios-PHP
+##:elephant: Desafios-PHP
 
 Realisando desafios propostos durante os cursos da Alura, na formação em PHP
 
-## :pencil2: Foi desenvolvido:
+# :pencil2: Foi desenvolvido:
 
 •Calculadora de IMC
 
